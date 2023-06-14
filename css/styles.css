@@ -284,6 +284,8 @@ color: var(--butt-color);
 .button:hover,.button:focus{
     background-color: #1367ac;
 }
+.button{margin-top: 30px;}
+
 .tituloin{
 
 font-family: 'Roboto';
