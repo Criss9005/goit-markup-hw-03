@@ -255,7 +255,6 @@ line-height: 1.36;
 letter-spacing: 0.06em;
 color: var(--text2-color);
 text-align: center;
-width: 696px;
 
 }
 
@@ -272,7 +271,6 @@ margin: 14px 0 0;
 
 .adress-flex{
     display: flex;
-    flex-direction: column;
 }
 
 .linkto{
